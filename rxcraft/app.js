@@ -9,7 +9,7 @@ document.body.innerHTML = `
       <div class="startBtns">
         <button class="playBtn" id="playBtn">▶ Play</button>
       </div>
-      <div class="startSig">©2025/2026 Rastin Emrani. All Rights Reserved</div>
+      <div class="startSig">©2025/2026 Rasty.fun. All Rights Reserved</div>
     </div>
   </div>
 
